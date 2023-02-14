@@ -5,4 +5,4 @@ I use my toolkit, [GitHub:kaanaksit/odak](https://github.com/kaanaksit/odak), in
 It is free and open-source, if you like you can use or contribute.
 
 If you like to learn more about me, please visit [my website](https://kaanaksit.com) or follow me on [Twitter](https://twitter.com/kaanaksit).
-If you find my causes worthy, please consider supporting my work through [sponsorship](https://github.com/sponsors/kaanaksit).
+If you find my causes research worthy, please consider supporting my work through [sponsorship](https://github.com/sponsors/kaanaksit).
