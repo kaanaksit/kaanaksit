@@ -1,5 +1,5 @@
 👋 Hello, I am Kaan Akşit. I am a scientist curious about computational models related to light.
-These models have helped me build screen technologies that could become an integral part of our lives. 
+These models have helped me invent immersive computational display methods for the next generation display technologies. 
 I intend to free all human beings from standing still in front of a screen and provide realistic images that could augment their real world while providing greater mobility and accessibility.
 I use my open-source toolkit, [GitHub:kaanaksit/odak](https://github.com/kaanaksit/odak), in my research.
 If you like my toolkit, you can use it freely and contribute.
